@@ -1,0 +1,6 @@
+What is 5 + 5?,10
+What is Rachel's favorite animal?,red panda
+What is Mike's middle name?,nobody knows
+What cardboard cutout lives at Turing?,Justin Bieber
+Who is the author of this code?,Alisher
+Who is Turing named after?,Alan Turing
